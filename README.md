@@ -1,7 +1,11 @@
-# -cs426_Group_16_Asgn2
+# -cs426_Guo_Jeff_Asgn5
 
 ## Note
-CS426 Video Game Programming Assignment #2
+CS426 Video Game Programming Assignment #5
+* Physics: Wrecking Ball and Bounce physics on ball.
+* Billboard: "Fake" trap underneath the main level
+* Sound: Sound trigger when player hits ball and when player goes to lower level
+* Light: Spotlight on one of the nest and light blue area light around the middle.
 
 ## Pre-Requisites
 * Unity Game Engine Installed
